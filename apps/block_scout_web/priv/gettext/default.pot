@@ -1104,7 +1104,7 @@ msgstr ""
 #: lib/block_scout_web/templates/layout/app.html.eex:45 lib/block_scout_web/templates/transaction/_pending_tile.html.eex:20
 #: lib/block_scout_web/templates/transaction/_tile.html.eex:37 lib/block_scout_web/templates/transaction/overview.html.eex:411
 #: lib/block_scout_web/views/wei_helpers.ex:78
-msgid "Ether"
+msgid "Omlira"
 msgstr ""
 
 #, elixir-format
@@ -1242,7 +1242,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/chain/show.html.eex:52
 #: lib/block_scout_web/views/block_view.ex:21 lib/block_scout_web/views/wei_helpers.ex:77
-msgid "Gwei"
+msgid "Gent"
 msgstr ""
 
 #, elixir-format
@@ -2982,7 +2982,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:125
-msgid "WEI"
+msgid "ENT"
 msgstr ""
 
 #, elixir-format
@@ -3002,7 +3002,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/views/wei_helpers.ex:76
-msgid "Wei"
+msgid "Ent"
 msgstr ""
 
 #, elixir-format
